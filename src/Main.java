@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Мой новый проект для пуша в Гитхаб.");
         System.out.println("Обновление проекта и пуш после 2 коммита");
         System.out.println("Создание 2 ветки");
+        System.out.println("Строка для конфликта");
     }
 }
